@@ -1,0 +1,72 @@
+header{
+    background-color: darkgoldenrod;
+}
+#ule{
+    list-style: none;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+body{
+    margin:0;
+}
+#cont1{
+background-color: blueviolet;
+width: 250px;
+height: 250px;
+background-image: url(./image/ace-one-piece-1.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+#cont2{
+background-color: black;
+width: 250px;
+height: 250px;
+background-image: url(./image/one-piece-odyssey-le-jeu-se-devoile-en-images-avec-luffy-et-sa-bande-1200-min.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+#cont3{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    background-image: url(./image/z1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#conteneur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+#foo{
+    list-style: none;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+footer{
+    background-color: goldenrod;
+}
+#luffytexte{
+    font-size: 28px;
+    display: none;
+}
+#titre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+
+}
+#zorooo{
+    height: 250px;
+    width: 250px;
+    display: none;
+}
